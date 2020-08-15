@@ -16,6 +16,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "jest": {
+    "collectCoverageFrom": [
+    "src/components/*.js",
+    "!<rootDir>/node_modules/",
+    "!<rootDir>/src/index.js",
+    "!<rootDir>/src/registerServiceWorker.js"
+    ]
+    },
   "eslintConfig": {
     "extends": "react-app"
   },

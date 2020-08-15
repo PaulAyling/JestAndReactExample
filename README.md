@@ -5,6 +5,7 @@ JEST TESTING EXAMPLE
 3. Insta react-test-renderer
 
 https://jestjs.io/docs/en/tutorial-react#setup-with-create-react-app
+https://medium.com/@yudhajitadhikary/unit-testing-of-react-component-using-jest-and-enzyme-39c63a005db1
 
 
 GIT DETAILS
